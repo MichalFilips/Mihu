@@ -1,0 +1,46 @@
+body
+{
+    background-color: #14213d;
+    margin:0;
+}
+h1
+{
+    color: #fca311;
+    font-size: 400%;
+    text-align: center;
+    background-color:#000000 ;
+    margin: 0;
+}
+h2
+{
+    color: #e5e5e5;
+    font-size: 200%;
+    text-align: left;
+    margin-left: 10px;
+}
+div
+{
+    color: #ffffff;
+    font-size: 100%;
+    text-align: left;
+    margin-left: 20px;
+}
+h3
+{
+    color: #ffffff;
+    font-size: 100%;
+    text-align: left;
+}
+a
+{
+    color: #e5e5e5;
+    font-size: 200%;
+    text-align: left;
+    margin-left: 10px;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
